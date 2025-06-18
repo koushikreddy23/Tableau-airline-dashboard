@@ -18,7 +18,7 @@ It is designed to help understand performance metrics such as the number of airl
 
 The dashboard combines these metrics into one visual workspace to allow quick insights and decisions.
 
----
+Dashboard Screenshot(Tableau_Dashboard.jpg)
 
 ## 🔧 Tools & Skills Used
 
