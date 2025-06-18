@@ -34,6 +34,8 @@ Dashboard Screenshot(Tableau_Dashboard.jpg)
 - **Software Required:** Tableau Desktop or Tableau Public to open
 
 ---
+Excel file Link(https://docs.google.com/spreadsheets/d/1k8gncQH2MkN016K3DacQAE7OAPi4ygDM/edit?usp=sharing&ouid=105108868251717842371&rtpof=true&sd=true)
+
 
 
 
